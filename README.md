@@ -8,6 +8,6 @@
 4. Matematika
 ![image](https://github.com/IsmedQalyubi/2.Python-2/blob/main/matematika.PNG) 
 5. Operator Procedence
-![image](
+![image](https://github.com/IsmedQalyubi/2.Python-2/blob/main/prodence.PNG) 
 6. Math Module
 ![image](
