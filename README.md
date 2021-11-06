@@ -10,4 +10,4 @@
 5. Operator Procedence
 ![image](https://github.com/IsmedQalyubi/2.Python-2/blob/main/prodence.PNG) 
 6. Math Module
-![image](
+![image](https://github.com/IsmedQalyubi/2.Python-2/blob/main/module%20math.PNG) 
